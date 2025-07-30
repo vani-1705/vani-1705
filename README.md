@@ -38,7 +38,8 @@
 ## 📫 Let's Connect!
 - ✉️ Email: [vanivasanthalaxmi1705@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/vani-vasantha-laxmi-yepparika-16023b286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- 🌐 Portfolio (coming soon!)
+- 🌐 Portfolio:
+https://github.com/vani-1705/vani-1705/portfolio 
 
 ---
 
