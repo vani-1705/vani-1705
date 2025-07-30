@@ -12,6 +12,7 @@
 - Python, C Programming
 - Tkinter GUI, Web Scraping
 - HTML, CSS, JavaScript (learning)
+- DBMS
 - Git & GitHub, VS Code
 - Communication & Teamwork
 
@@ -39,7 +40,7 @@
 - ✉️ Email: [vanivasanthalaxmi1705@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/vani-vasantha-laxmi-yepparika-16023b286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - 🌐 Portfolio:
-https://github.com/vani-1705/vani-1705/portfolio 
+https://github.com/vani-1705/portfolio 
 
 ---
 
